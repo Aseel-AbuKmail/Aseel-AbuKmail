@@ -1,4 +1,4 @@
-<!-- markdownlint-disable-next-line MD013 --> ''' I encountered an error because some lines exceeded the 80-character limit. To resolve this, I added a rule to bypass this restriction. '''
+<!-- markdownlint-disable-next-line MD013 --> I encountered an error because some lines exceeded the 80-character limit. To resolve this, I added a rule to bypass this restriction.
 
 # Hi, I'm Aseel AbuKmail
 
