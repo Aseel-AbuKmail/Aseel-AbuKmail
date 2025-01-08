@@ -26,8 +26,8 @@ exist at the end of lines to satisfy MD009.
 ## Personal Information
 
 🌍 **Gaza City, Palestine**  
-✉ [Email](mailto:aseelabukmail@gmail.com)|
-[LinkedIn](https://www.linkedin.com/in/aseelabukmail/)|
+✉ [Email](mailto:aseelabukmail@gmail.com) |
+[LinkedIn](https://www.linkedin.com/in/aseelabukmail/) |
 [GitHub](https://github.com/Aseel-AbuKmail)
 
 ---
