@@ -14,7 +14,8 @@ Trailing Spaces (MD009): Extra spaces at the end of lines.
 ## Personal Information
 
 🌍 **Gaza City, Palestine**  
-✉ [Email](mailto:aseelabukmail@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aseelabukmail/)  
+✉ [Email](mailto:aseelabukmail@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aseelabukmail/)  
 [GitHub](https://github.com/Aseel-AbuKmail)
 
 ## Education
@@ -23,10 +24,14 @@ Trailing Spaces (MD009): Extra spaces at the end of lines.
 **MIT Data Science and Computer Science Certificate Program**  
 📅 **Nov 2024 – Present**  
 
-- 🖥️ Core Courses: Introduction to Python, Computational Thinking, and Data Science  
-- 💡 Focus: Innovation, creativity, leadership, problem-solving  
-- 📊 Project-Based: Data science projects and professional growth opportunities  
-- 🌐 Networking: Access to MIT’s vast resources
+- 🖥️ Core Courses:
+Introduction to Python, Computational Thinking, and Data Science  
+- 💡 Focus:
+Innovation, creativity, leadership, problem-solving  
+- 📊 Project-Based:
+Data science projects and professional growth opportunities  
+- 🌐 Networking:
+Access to MIT’s vast resources
 
 🎓 **Islamic University of Gaza, Gaza Strip, Palestine**  
 **BS in Electrical Engineering**  
@@ -39,7 +44,6 @@ Trailing Spaces (MD009): Extra spaces at the end of lines.
 **Electrical Engineer**  
 📅 **Oct 2024 – Present**  
 
-- ⚡ Designed and optimized schematics, boosting project efficiency by 25%  
 - 💰 Assisted in cost estimation, cutting expenses by 12%  
 - 📑 Drafted reports to improve stakeholder communication
 
@@ -67,11 +71,9 @@ Trailing Spaces (MD009): Extra spaces at the end of lines.
 ## Voluntary Experiences
 
 🤝 **Erasmus Programme**: “Cultural Encounters: Perspectives on Populism 2019”  
-📦 **Community Service**: Distributed emergency food parcels to 450+ families  
-(March 2021)  
+📦 **Community Service**: Distributed emergency food parcels to 450+ families
 🩹 **First Aid Training**: Taught emergency response to 50 children (June 2019)  
-📖 **To The Future Initiative**: Storytelling sessions for orphaned children  
-(30 hours)
+📖 **To The Future Initiative**: Storytelling sessions for orphaned children
 
 ## Awards and Scholarships
 
@@ -83,9 +85,8 @@ Electrical Engineering
 ## Skills and Tools
 
 🛠️ **Soft Skills**: Teamwork, adaptability, communication, problem-solving  
-💻 **Technical Skills**: Data analysis (Power BI, Kobo Toolbox), programming  
-(Python, C++, C#)  
-🔧 **Technologies**: Git, MATLAB, SCADA Systems, VS Code, PyCharm  
+💻 **Technical Skills**: programming (Python, C++, C#)  
+🔧 **Technologies**: Git, MATLAB, VS Code, PyCharm  
 🌍 **Languages**: Arabic (Native), English (Proficient)
 
 ## Memberships
