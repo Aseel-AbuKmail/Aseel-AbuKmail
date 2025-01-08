@@ -13,108 +13,77 @@ Trailing Spaces (MD009): Extra spaces at the end of lines.
 
 ## Personal Information
 
-🌍: Gaza City, Palestine
-✉: [Email](aseelabukmail@gmail.com), [LinkedIn](https://www.linkedin.com/in/aseelabukmail/), [GitHub](https://github.com/Aseel-AbuKmail)
+🌍 **Gaza City, Palestine**  
+✉ [Email](mailto:aseelabukmail@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aseelabukmail/) | [GitHub](https://github.com/Aseel-AbuKmail)
 
 ## Education
 
-### Massachusetts Institute of Technology(MIT), Cambridge, United States
+🎓 **Massachusetts Institute of Technology (MIT), Cambridge, USA**  
+**MIT Data Science and Computer Science Certificate Program**  
+📅 **Nov 2024 – Present**  
 
-> MIT Data Science and Computer Science Certificate Program
-Nov 2024 – Present
+- 🖥️ Core Courses: Introduction to Python, Computational Thinking, and Data Science
+- 💡 Focus: Innovation, creativity, leadership, problem-solving
+- 📊 Project-Based: Data science projects and professional growth opportunities
+- 🌐 Networking: Access to MIT’s vast resources
 
-> * Academics: Includes 3 core courses: Introduction to Computer Science and Programming Using Python, Introduction to Computational Thinking and Data Science.
-> * Skills: Focuses on innovation, entrepreneurship, creativity, leadership, and problem-solving.
-> * Experiential Learning: Involves completing a data science-driven project, either collaboratively or independently, or securing a fixed-term internship or employment opportunity.
-> * Networks: Expands professional connections through MIT’s extensive community and resources.
-
-### Islamic University of Gaza, Gaza Strip, Palestine
-
-> BS in Electrical Engineering
-Sept 2018 – Jan 2023
-> GPA: 3.39/4.0
-
-### Al-Zahra High School, Gaza Strip, Palestine
-
->High School Certificate
-Sep 2017 – Aug 2018
-> GPA: 3.72/4.0
+🎓 **Islamic University of Gaza, Gaza Strip, Palestine**  
+**BS in Electrical Engineering**  
+📅 **Sept 2018 – Jan 2023**  
+📈 GPA: 3.39/4.0
 
 ## Professional Experience
 
-### Electrical Engineer
+🛠️ **Babel Company, Gaza-Palestine**  
+**Electrical Engineer**  
+📅 **Oct 2024 – Present**  
 
-Babel Company, Gaza-Palestine, Oct 2024 – Present
+- ⚡ Designed and optimized schematics, boosting project efficiency by 25%
+- 💰 Assisted in cost estimation, cutting expenses by 12%
+- 📑 Drafted reports to improve stakeholder communication
 
-> * Developed and optimized electrical schematics and wiring diagrams, improving project efficiency by 25%.
-> * Assisted in project cost estimation and resource planning, contributing to a 12% reduction in project expenses.
-> * Prepared detailed technical reports for project stakeholders, improving communication and decision-making
-processes.
+📚 **Islamic University of Gaza, Gaza-Palestine**  
+**Teacher Assistant**  
+📅 **Jul 2024 – Present**  
 
-### Teacher Assistant
+- 💻 Conducted virtual labs for Digital Control and Power Electronics
+- ✍️ Reviewed reports and provided constructive feedback
+- 📂 Developed resources to enhance remote learning
 
-Islamic University of Gaza, Gaza-Palestine, Jul 2024 – Present
+📋 **Yabous Company, Gaza-Palestine**  
+**Administration Assistant Engineer**  
+📅 **Jul 2023 – Oct 2023**  
 
-> * Facilitated virtual lab sessions, guiding students through experiments and providing real-time troubleshooting and technical support via online platforms.
-> * Reviewed and graded students’ online lab reports and projects, offering constructive feedback to enhance
-understanding of theoretical and practical concepts in Digital Control and Power Electronics.
-> * Developed and maintained online resources, including lab materials, tutorials, and instructional videos, to
-support students in conducting experiments and reinforcing key course concepts remotely.
+- 🗂️ Streamlined documentation, reducing delays by 20%
+- 📏 Ensured compliance with technical specs
 
-### Administration Assistant Engineer
+⚙️ **Gaza Electricity Distribution Corporation (GEDCo), Gaza-Palestine**  
+**Electrical Engineer Intern**  
+📅 **Jun 2022 – Aug 2022**  
 
-Yabous Company, Gaza-Palestine, Jul 2023 – Oct 2023
-
-> * Streamlined documentation processes, reducing reporting delays by 20%
-> * Ensured adherence to technical specifications through effective communication and tracking
-
-### Electrical Engineer Intern
-
-Gaza Electricity Distribution Corporation(GEDCo), Gaza-Palestine, Jun 2022 – Aug 2022
-
-> * Supported SCADA operations, improving efficiency in data collection
-
-### Logistic Assistant(Volunteer)
-
-SAKCO Company, Gaza-Palestine, Aug 2021 – Feb 2022
-
-> * Coordinated logistical efforts, enhancing operational workflows
+- 🔧 Supported SCADA operations, boosting data collection efficiency
 
 ## Voluntary Experiences
 
-* Erasmus programme “Cultural Encounters: Perspectives on Populism 2019”
-* “Ele Elna Elak” campaign in which we served more than 450 families (over 3700 people) by providing emergency food parcels to cover their needs for food for at least 2 weeks, March 2021.
-* First aid campaign for 50 children (16 hours), June 2019, to equip them with the essential knowledge to maintain a safe working environment, and take the correct action when an emergency arises.
-* To The Future 2 Initiative (30 hours), reading stories for orphan children.
+🤝 **Erasmus Programme**: “Cultural Encounters: Perspectives on Populism 2019”  
+📦 **Community Service**: Distributed emergency food parcels to 450+ families (March 2021)  
+🩹 **First Aid Training**: Taught emergency response to 50 children (June 2019)  
+📖 **To The Future Initiative**: Storytelling sessions for orphaned children (30 hours)
 
 ## Awards and Scholarships
 
-* MIT Data Science and Computer Science Certificate Program, Nov 2024: Program for a year at Massachusetts Institute of Technology(MIT).
-* Reach Education Fund Scholarship, US non- profit organization, Nov 2020: Scholarship for two years at University for BS in Electrical Engineering.
+🏆 **MIT Data Science Certificate Program (2024)**: Selected for a prestigious program at MIT  
+🎓 **Reach Education Fund Scholarship (2020)**: Two-year scholarship for BS in Electrical Engineering
 
-## Skills and Qualities
+## Skills and Tools
 
-* Initiative and team worker
-* Work under minimum supervision
-* Meeting the assigned tasks within the deadline (with precision)
-* Excellent communication skills
-* Flexible in dealing with people from different backgrounds
-* Adaptive and fast learner
-* Advanced data analysis tools: Power BI, Kobo Toolbox, MS Office
-* Monitoring & Evaluation frameworks, data visualization, reporting
+🛠️ **Soft Skills**: Teamwork, adaptability, communication, problem-solving  
+💻 **Technical Skills**: Data analysis (Power BI, Kobo Toolbox), programming (Python, C++, C#)  
+🔧 **Technologies**: Git, MATLAB, SCADA Systems, VS Code, PyCharm  
+🌍 **Languages**: Arabic (Native), English (Proficient)
 
-## Membership
+## Memberships
 
-* Institute of Electrical and Electronics Engineers(IEEE)
-* Palestinians Engineers Syndicate-Gaza
-* Global Shapers Community, initiative of World Economic Forum
-
-## Technologies
-
-* Languages: Python, C++, C#
-* Technologies: Git, GitHub, Visual Studio Code(VS Code), PyCharm, MATLAB, SCADA Systems
-
-## Languages
-
-* Mother tongue: Arabic
-* Other languages(Good Level): English
+- 🎓 **Institute of Electrical and Electronics Engineers (IEEE)**
+- 🏢 **Palestinian Engineers Syndicate - Gaza**
+- 🌐 **Global Shapers Community (World Economic Forum)**
