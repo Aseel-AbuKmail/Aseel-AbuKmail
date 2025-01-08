@@ -9,6 +9,18 @@ to bypass this restriction.
 <!--
 Trailing Spaces (MD009): Extra spaces at the end of lines.
 -->
+
+<!--
+To resolve the reported Markdownlint errors 
+(MD032/blanks-around-lists and MD009/no-trailing-spaces),
+I will make the following adjustments:
+
+Surround lists with blank lines: Add a blank line 
+before and after each list to comply with MD032.
+Remove trailing spaces: Ensure no extra spaces
+exist at the end of lines to satisfy MD009.
+-->
+
 # Hi, I'm Aseel AbuKmail
 
 ## Personal Information
@@ -25,12 +37,19 @@ Trailing Spaces (MD009): Extra spaces at the end of lines.
 📅 **Nov 2024 – Present**  
 
 - 🖥️ Core Courses:
+  
 > Introduction to Python, Computational Thinking, and Data Science  
+
 - 💡 Focus:
+
 > Innovation, creativity, leadership, problem-solving  
+
 - 📊 Project-Based:
+
 > Data science projects and professional growth opportunities  
+
 - 🌐 Networking:
+
 > Access to MIT’s vast resources
 
 🎓 **Islamic University of Gaza, Gaza Strip, Palestine**  
