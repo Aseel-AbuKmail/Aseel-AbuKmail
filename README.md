@@ -14,8 +14,8 @@ Trailing Spaces (MD009): Extra spaces at the end of lines.
 ## Personal Information
 
 🌍 **Gaza City, Palestine**  
-✉ [Email](mailto:aseelabukmail@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/aseelabukmail/)  
+✉ [Email](mailto:aseelabukmail@gmail.com) |
+[LinkedIn](https://www.linkedin.com/in/aseelabukmail/) |
 [GitHub](https://github.com/Aseel-AbuKmail)
 
 ## Education
@@ -25,13 +25,13 @@ Trailing Spaces (MD009): Extra spaces at the end of lines.
 📅 **Nov 2024 – Present**  
 
 - 🖥️ Core Courses:
-Introduction to Python, Computational Thinking, and Data Science  
+> Introduction to Python, Computational Thinking, and Data Science  
 - 💡 Focus:
-Innovation, creativity, leadership, problem-solving  
+> Innovation, creativity, leadership, problem-solving  
 - 📊 Project-Based:
-Data science projects and professional growth opportunities  
+> Data science projects and professional growth opportunities  
 - 🌐 Networking:
-Access to MIT’s vast resources
+> Access to MIT’s vast resources
 
 🎓 **Islamic University of Gaza, Gaza Strip, Palestine**  
 **BS in Electrical Engineering**  
@@ -50,8 +50,7 @@ Access to MIT’s vast resources
 📚 **Islamic University of Gaza, Gaza-Palestine**  
 **Teacher Assistant**  
 📅 **Jul 2024 – Present**  
-
-- 💻 Conducted virtual labs for Digital Control and Power Electronics  
+ 
 - ✍️ Reviewed reports and provided constructive feedback  
 - 📂 Developed resources to enhance remote learning
 
@@ -68,23 +67,9 @@ Access to MIT’s vast resources
 
 - 🔧 Supported SCADA operations, boosting data collection efficiency
 
-## Voluntary Experiences
-
-🤝 **Erasmus Programme**: “Cultural Encounters: Perspectives on Populism 2019”  
-📦 **Community Service**: Distributed emergency food parcels to 450+ families
-🩹 **First Aid Training**: Taught emergency response to 50 children (June 2019)  
-📖 **To The Future Initiative**: Storytelling sessions for orphaned children
-
-## Awards and Scholarships
-
-🏆 **MIT Data Science Certificate Program (2024)**: Selected for a prestigious  
-program at MIT  
-🎓 **Reach Education Fund Scholarship (2020)**: Two-year scholarship for BS in  
-Electrical Engineering
-
 ## Skills and Tools
 
-🛠️ **Soft Skills**: Teamwork, adaptability, communication, problem-solving  
+🛠️ **Soft Skills**: Teamwork, communication, problem-solving  
 💻 **Technical Skills**: programming (Python, C++, C#)  
 🔧 **Technologies**: Git, MATLAB, VS Code, PyCharm  
 🌍 **Languages**: Arabic (Native), English (Proficient)
